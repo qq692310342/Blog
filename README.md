@@ -1,2 +1,3 @@
 # Blog
-学习途中的积累
+第一部分：JAVASE
+1、为什么重写equals还要重写hashcode
